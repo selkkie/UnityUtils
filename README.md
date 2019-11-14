@@ -4,7 +4,7 @@ Various handy things I use in most every Unity project.
 Includes: 
 
 ## UnityLoader.js
-A unity loader that has no logo. 
+A unity WebGL loader that has no logo. 
 
 ## TransformDeepChildExtension.cs
 An extension that lets you use transform.Find() on grandchildren.
